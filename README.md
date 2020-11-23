@@ -1,2 +1,2 @@
 # Calculator
-https://felig.github.io/Calculator/index
+https://felig.github.io/Calculator/
